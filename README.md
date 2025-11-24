@@ -1,4 +1,5 @@
 # Neurophenomenological Simulator v2.0: Advanced Phenomenological Coefficients Theory
+Modularized implementation of the Theory of Phenomenological Coefficients.
 
 ## DOI Update for: https://doi.org/10.5281/zenodo.17619907
 
@@ -36,6 +37,10 @@ This major update to the Neurophenomenological Simulator introduces comprehensiv
 - ROC curve analysis for threshold validation
 - State transition latency and hysteresis analysis
 - Entropy-based synchronization measures
+
+## Installation
+pip install .
+
 
 ### Usage
 
