@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "title": "Neurophenomenological Simulator v2.0: Advanced Phenomenological Coefficients Theory",
+    "creators": [
+      {
+        "name": "Morelos Navidad, Marco Antonio",
+        "affiliation": "Universidad Autónoma Metropolitana",
+        "orcid": "0009-0007-0083-5496"
+      }
+    ],
+    "description": "Major update implementing complete mathematical framework with advanced scientific validation. Includes mind-brain isomorphism analysis, experimental validation methods, and enhanced computational robustness for consciousness research.",
+    "keywords": [
+      "consciousness",
+      "computational neuroscience", 
+      "phenomenology",
+      "theoretical neuroscience",
+      "gamma oscillations",
+      "mathematical modeling",
+      "neurophenomenology",
+      "isomorphism analysis"
+    ],
+    "related_identifiers": [
+      {
+        "relation": "isVersionOf",
+        "identifier": "10.5281/zenodo.17619907"
+      }
+    ],
+    "contributors": [],
+    "communities": [
+      {
+        "identifier": "computational-neuroscience"
+      },
+      {
+        "identifier": "theoretical-biology"
+      }
+    ],
+    "license": "MIT",
+    "upload_type": "software",
+    "access_right": "open",
+    "version": "2.0"
+  }
+}

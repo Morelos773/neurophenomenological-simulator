@@ -1,0 +1,35 @@
+{
+  "paradigms": {
+    "validacion_gamma": {
+      "acoplamiento": 0.8,
+      "estimulo_externo": 0.2,
+      "tiempo_estimulo": 3.0,
+      "duracion_estimulo": 1.0,
+      "descripcion": "Gamma synchronization validation paradigm"
+    },
+    "anestesia_general": {
+      "acoplamiento": 0.3,
+      "estimulo_externo": 0.0,
+      "descripcion": "General anesthesia simulation"
+    },
+    "microestimulacion": {
+      "acoplamiento": 0.6,
+      "estimulo_externo": 0.4,
+      "tiempo_estimulo": 2.0,
+      "duracion_estimulo": 0.5,
+      "descripcion": "Microstimulation effects analysis"
+    },
+    "basal": {
+      "acoplamiento": 0.7,
+      "estimulo_externo": 0.0,
+      "descripcion": "Baseline conscious state"
+    }
+  },
+  "validation_thresholds": {
+    "gamma_consciente": [0.6, 0.9],
+    "gamma_inconsciente": [0.0, 0.25],
+    "umbral_fenomenologico": [0.28, 0.32],
+    "amplitud_umbral": [0.22, 0.25],
+    "correlacion_gamma_coeficiente": [0.7, 1.0]
+  }
+}
