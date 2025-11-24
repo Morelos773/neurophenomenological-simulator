@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tcf_simulator"
+version = "0.1.0"
+description = "Neurophenomenological Simulator - modularized package"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+  { name="Marco Antonio Morelos Navidad" }
+]
+dependencies = [
+  "numpy",
+  "scipy",
+  "pandas",
+  "plotly",
+  "matplotlib",
+  "streamlit",
+  "scikit-learn"
+]
